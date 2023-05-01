@@ -1,5 +1,5 @@
 # Erome
-Download videos/pics on Erome, using CLI.
+Downloading videos and photos from Erome using the CLI
 
 Examples:
 ```
